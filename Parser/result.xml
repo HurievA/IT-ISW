@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Array>
+    <dishes>
+        <name>Cуши-сет Стильный</name>
+        <cost>489 грн.</cost>
+        <weight>1185 г</weight>
+        <info>
+            <review>4</review>
+            <link>https://roll-club.kh.ua/tovar/stilnyj/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Свайп 8 шт., Сырный 8 шт., Драйв 8 шт, Фуджи 10 шт, Ика 8 шт. Количество в порции: 50 шт. Вес: 1185 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Модный</name>
+        <cost>399 грн.</cost>
+        <weight>975 г</weight>
+        <info>
+            <review>4</review>
+            <link>https://roll-club.kh.ua/tovar/modnyj/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Мехико 8 шт., Сырный 8 шт., Драйв 8 шт, Фуджи 10 шт. Количество в порции: 42 шт. Вес: 975 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Эгоист</name>
+        <cost>399 грн.</cost>
+        <weight>920 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/jegoist/</link>
+        </info>
+        <consist>Роллы: Филадельфия Лайт 8 шт., Ибица 8 шт., Огайо 8 шт., Аргентина 8 шт., Три сыра 8 шт. Количество в порции: 40шт. Вес: 920 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Тренд</name>
+        <cost>325 грн.</cost>
+        <weight>705 г</weight>
+        <info>
+            <review>9</review>
+            <link>https://roll-club.kh.ua/tovar/trend/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Три сыра 8 шт., Свайп 8 шт., Драйв 8 шт. Количество в порции: 32 шт. Вес: 705 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Смайл</name>
+        <cost>249 грн.</cost>
+        <weight>555 г</weight>
+        <info>
+            <review>7</review>
+            <link>https://roll-club.kh.ua/tovar/smajl/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Драйв 8 шт, Чикен Чиз 8 шт. Количество в порции: 24 шт. Вес: 555 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Манхэттен</name>
+        <cost>385 грн.</cost>
+        <weight>950 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/manhjetten/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Чикен Чиз 8 шт., Мехико 8 шт., Ика 8 шт., Хокку 8 шт. Количество в порции: 40 шт. Вес: 950 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Лион</name>
+        <cost>311 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/lion/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Гамадари 10 шт., Флорида 8 шт., Ика 8 шт. Количество в порции: 34 шт. Вес: 770 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Дублин</name>
+        <cost>225 грн.</cost>
+        <weight>570 г</weight>
+        <info>
+            <review>5</review>
+            <link>https://roll-club.kh.ua/tovar/dublin/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Три сыра 8 шт., Кани Томаго 10 шт. Количество в порции: 26 шт. Вес: 570 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Комбо</name>
+        <cost>379 грн.</cost>
+        <weight>940 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/kombo/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Унаги Чиз 8 шт., Хокку 8 шт., Чикен Чиз 8 шт., Ика 8 шт. Количество в порции: 40 шт. Вес: 940 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Чилаут</name>
+        <cost>375 грн.</cost>
+        <weight>950 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/chilaut/</link>
+        </info>
+        <consist>Роллы: Три сыра 8 шт., Фараон 8 шт., Унаги Чиз 8 шт., Гамадари 10 шт., Флорида 8 шт. Количество в порции: 42 шт. Вес: 950 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Галактика</name>
+        <cost>589 грн.</cost>
+        <weight>1380 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/galaktika/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Три сыра шт., Флорида 8 шт., Хокку 8 шт., Маки Ролл с огурцом 6 шт., Маки Ролл с курицей 6 шт., Маки Ролл со снежным крабом 6 шт., Маки ролл с горбушей 6 шт., Феликс с чукой 2 шт., Феликс с кальмаром и омлетом 2 шт., Суши с лососем 2 шт., Суши с масляной рыбой 2 шт. Количество в порции: 64 шт. Вес: 1380 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Катана</name>
+        <cost>439 грн.</cost>
+        <weight>910 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/katana-2/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Верона 10 шт., Белый Дракон 8 шт., Хокку 8 шт., Ибица 8 шт. Количество в порции: 42 шт. Вес: 910 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Мадагаскар</name>
+        <cost>315 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/madagaskar/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Футомак с лососем 10 шт., Вега 8 шт., Чикен Чиз 8 шт. Количество в порции: 34 шт. Вес: 770 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Кензо</name>
+        <cost>321 грн.</cost>
+        <weight>790 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/kenzo/</link>
+        </info>
+        <consist>Роллы: Флорида 8 шт., Жёлтый Дракон 8 шт., Вега 8 шт., Денвер 8 шт. Количество в порции: 32 шт. Вес: 790 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Альфа-Самец</name>
+        <cost>275 грн.</cost>
+        <weight>520 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/alfa-samec/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Чикен Чиз 8 шт., Суши с лососем 1 шт., Суши с угрём 1 шт., Феликс со снежным крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 20 шт. Вес:520 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Сайонара</name>
+        <cost>359 грн.</cost>
+        <weight>860 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/sajonara/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Цунами 8 шт., Флорида 8 шт., Маки Ролл с горбушей 6 шт., Маки Ролл с огурцом 6 шт., Маки Ролл со снежным крабом 6 шт. Количество в порции: 42 шт. Вес: 860 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Сет Драконов</name>
+        <cost>495 грн.</cost>
+        <weight>870 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/set-drakonov/</link>
+        </info>
+        <consist>Роллы: Красный Дракон 8 шт., Зелёный Дракон 8 шт., Белый Дракон 8 шт., Жёлтый Дракон 8 шт. Количество в порции: 32 шт. Вес: 870 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Микадо</name>
+        <cost>325 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/mikado-2/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Невада 8 шт., Сырный ролл 8 шт., Кани Томаго 10 шт. Количество в порции: 34 шт. Вес: 760 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Сумо</name>
+        <cost>365 грн.</cost>
+        <weight>840 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/sumo/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Унаги Чиз 8 шт., Чикен Чиз 8 шт., Марокко 8 шт., Феликс со снежным крабом 2 шт. Количество в порции: 34 шт. Вес: 840 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Ниагара</name>
+        <cost>359 грн.</cost>
+        <weight>900 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/niagara/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Флорида 8 шт., Чикен Чиз 8 шт., Вега 8 шт., Феликс со снежным крабом 2 шт., Феликс с чукой 2 шт. Количество в порции: 36 шт. Вес: 900 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Бинго</name>
+        <cost>319 грн.</cost>
+        <weight>750 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/bingo/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Три Сыра 8 шт., Футомак с лососем 10 шт., Ика 8 шт. Количество в порции: 34 шт. Вес: 750 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Венеция</name>
+        <cost>449 грн.</cost>
+        <weight>1070 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/venecija/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Чикен чиз 8 шт., Хайп 8 шт., Маки Ролл с огурцом 6 шт., Маки Ролл с чукой 6 шт., Маки Ролл со снежным крабом 6 шт., Суши с лососем 2 шт., Феликс со снежным крабом 2 шт., Феликс с кальмаром и омлетом 2 шт. Количество в порции: 48 шт. Вес: 1070 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Легенда</name>
+        <cost>379 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/legenda/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Желтый Дракон 8 шт., Унаги Чиз 8 шт., Афины 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Бум Филадельфий</name>
+        <cost>343 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>6</review>
+            <link>https://roll-club.kh.ua/tovar/bum-filadelfij/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Белый Дракон 8 шт., Чикен Чиз 8 шт., Ибица 8 шт. Количество в порции: 32 шт. Вес: 770 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Четыре хита</name>
+        <cost>355 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/4-hita/</link>
+        </info>
+        <consist>Роллы: Филадельфия классик 8 шт., Филадельфия Грин 8 шт., Хокку 8 шт., Невада 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Банкетный</name>
+        <cost>799 грн.</cost>
+        <weight>1990 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/banketny-j/</link>
+        </info>
+        <consist>Роллы: Гамадари 10 шт., Филадельфия Лайт 8 шт., Аргентина 8 шт., Унаги чиз 8 шт., Флорида 8 шт., Рио 8 шт., Токио 8 шт., Ика 8 шт., Ролл с курицей 6 шт., Ролл с огурцом 6 шт., Ролл с лососем 6 шт., Феликс со снежным крабом 6 шт. Количество в порции: 90 шт. Вес: 1990 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Норвежский</name>
+        <cost>379 грн.</cost>
+        <weight>750 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/norvezhskij-2/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Амазонка 10 шт., Аргентина 8 шт., Флорида 8 шт. Количество в порции: 34 шт. Вес: 750 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Ватикан</name>
+        <cost>395 грн.</cost>
+        <weight>970 г</weight>
+        <info>
+            <review>2</review>
+            <link>https://roll-club.kh.ua/tovar/vatikan/</link>
+        </info>
+        <consist>Роллы: Аргентина 8 шт., Флорида 8 шт., Рио 8 шт., Ика 8 шт., Токио 8 шт. Количество в порции: 40 шт. Вес: 970 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Мичиган</name>
+        <cost>335 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>6</review>
+            <link>https://roll-club.kh.ua/tovar/michigan-2/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Цунами 8 шт., Футомак с лососем 10 шт., Флорида 8 шт. Количество в порции: 34 шт. Вес: 760 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Вечеринка</name>
+        <cost>649 грн.</cost>
+        <weight>1650 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/vecherinka/</link>
+        </info>
+        <consist>Роллы: Амазонка 10 шт., Филадельфия лайт 8 шт., Хайп 8 шт., Ика 8 шт., Цунами 8 шт., Флойд 8 шт., Ролл с огурцом 6 шт., Ролл с курицей 6 шт., Ролл со снежным крабом 6 шт., Феликс со снежным крабом 2 шт., Феликс с чукой 2 шт., Феликс копчёный микс 2 шт. Количество в порции: 74 шт. Вес: 1650 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Фаворит</name>
+        <cost>315 грн.</cost>
+        <weight>790 г</weight>
+        <info>
+            <review>10</review>
+            <link>https://roll-club.kh.ua/tovar/oazis-2/</link>
+        </info>
+        <consist>Роллы: Цунами 8 шт., Филадельфия в кунжуте 8 шт., Токио 8 шт., Феликс со снежным крабом 6 шт. Количество в порции: 30 шт. Вес: 790 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Оазис</name>
+        <cost>245 грн.</cost>
+        <weight>560 г</weight>
+        <info>
+            <review>1</review>
+            <link>https://roll-club.kh.ua/tovar/oazis/</link>
+        </info>
+        <consist>Роллы: Флойд 8 шт., Хайп 8 шт., Футомак с лососем 10 шт. Количество в порции: 26 шт. Вес: 560 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Чикаго</name>
+        <cost>509 грн.</cost>
+        <weight>1130 г</weight>
+        <info>
+            <review>4</review>
+            <link>https://roll-club.kh.ua/tovar/chikago-2/</link>
+        </info>
+        <consist>Роллы: Филадельфия лайт 8 шт., Кани Томаго 10 шт., Аргентина 8 шт., Хайп 8 шт., Три сыра 8 шт., Футомак с лососем 10 шт. Количество в порции: 52 шт. Вес: 1130 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Тесла</name>
+        <cost>329 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>3</review>
+            <link>https://roll-club.kh.ua/tovar/tesla/</link>
+        </info>
+        <consist>Роллы: Филадельфия Лайт 8 шт., Свайп 8 шт., Ика 8 шт., Хайп 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Фирменный</name>
+        <cost>599 грн.</cost>
+        <weight>1340 г</weight>
+        <info>
+            <review></review>
+            <link>https://roll-club.kh.ua/tovar/firmenny-j-set/</link>
+        </info>
+        <consist>Роллы: Филадельфия Лайт 8 шт., Аргентина 8 шт., Спайс ролл с курицей 6 шт., Спайс ролл с крабом 6 шт., с огурцом 6 шт., Спайс ролл с горбушей 6 шт., Футомак с лососем 10 шт., Три сыра 8 шт., Феликс спайс лосось 2 шт., Феликс копченый микс 2 шт., Феликс кальмар омлет 2 шт. Количество в порции: 64 шт. Вес: 1340 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Селфи</name>
+        <cost>335 грн.</cost>
+        <weight>740 г</weight>
+        <info>
+            <review>3</review>
+            <link>https://roll-club.kh.ua/tovar/selfi-set/</link>
+        </info>
+        <consist>Роллы: Филадельфия Лайт 8 шт., Аргентина 8 шт., Unagi Cheese 8 шт., Гамадари 10 шт. Количество в порции: 34 шт. Вес: 740 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Для одного</name>
+        <cost>179 грн.</cost>
+        <weight>300 г</weight>
+        <info>
+            <review>3</review>
+            <link>https://roll-club.kh.ua/tovar/dlya-odnogo-set/</link>
+        </info>
+        <consist>Роллы: Филадельфия Classic 8 шт., Феликс спайс с креветкой 1 шт., Феликс с крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 11 шт. Вес: 300 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Карибы</name>
+        <cost>429 грн.</cost>
+        <weight>940 г</weight>
+        <info>
+            <review>10</review>
+            <link>https://roll-club.kh.ua/tovar/kariby-set/</link>
+        </info>
+        <consist>Роллы: Гейша ролл 8 шт., Сырный ролл 8 шт., Unagi Cheese 8 шт., Киото ролл 8 шт., Филадельфия лайт 8 шт. Количество в порции: 40 шт. Вес: 940 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Мини-сет</name>
+        <cost>259 грн.</cost>
+        <weight>490 г</weight>
+        <info>
+            <review>8</review>
+            <link>https://roll-club.kh.ua/tovar/mini-set/</link>
+        </info>
+        <consist>Роллы: Филадельфия Лайт 8 шт., Unagi Cheese 8 шт., Суши с лососем 1 шт., Суши с креветкой 1 шт., Феликс с крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 20 шт. Вес: 490 г</consist>
+    </dishes>
+    <dishes>
+        <name>Cуши-сет Для Двоих</name>
+        <cost>369 грн.</cost>
+        <weight>900 г</weight>
+        <info>
+            <review>18</review>
+            <link>https://roll-club.kh.ua/tovar/dlya-dvoih/</link>
+        </info>
+        <consist>Роллы: Ницца 8 шт., Ибица 8 шт., Шейх 8 шт., Спайс ролл с горбушей 6 шт., Ролл с огурцом 6 шт., Спайс ролл с курицей 6 шт. Количество в порции: 42 шт. Вес: 900 г</consist>
+    </dishes>
+</Array>
