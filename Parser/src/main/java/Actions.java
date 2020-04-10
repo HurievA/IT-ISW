@@ -9,8 +9,9 @@ import javax.xml.bind.Unmarshaller;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.Source;
+import javax.xml.transform.*;
 import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
@@ -20,7 +21,7 @@ import java.io.*;
 public final class Actions {
 
     // сохраняем объект в XML файл
-    public static void convertObjectToXml(Array student, String filePath) throws FileNotFoundException,ParserConfigurationException, JAXBException {
+    public static void convertObjectToXml(Array dish, String filePath) throws FileNotFoundException,ParserConfigurationException, JAXBException {
         try {
             JAXBContext context = JAXBContext.newInstance(Array.class);
             Marshaller marshaller = context.createMarshaller();
@@ -28,7 +29,7 @@ public final class Actions {
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, Boolean.TRUE);
 
             // маршаллинг объекта в файл
-            marshaller.marshal(student, new File(filePath));
+            marshaller.marshal(dish, new File(filePath));
         } catch (JAXBException e) {
             e.printStackTrace();
         }
@@ -58,4 +59,22 @@ public final class Actions {
         }
         return true;
     }
+
+    public static Document get(String xmlPath) throws ParserConfigurationException, IOException, SAXException {
+        File file = new File(xmlPath);
+        DocumentBuilderFactory docFactory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder docBuilder = docFactory.newDocumentBuilder();
+        return docBuilder.parse(file);
+    }
+
+    public static void saveNew(Document document, String pathToSave) throws TransformerException {
+        TransformerFactory transformerFactory = TransformerFactory.newInstance();
+        Transformer transformer = transformerFactory.newTransformer();
+       transformer.setOutputProperty(OutputKeys.INDENT, "yes");
+       transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
+        DOMSource source = new DOMSource(document);
+        StreamResult result = new StreamResult(new File(pathToSave));
+        transformer.transform(source, result);
+    }
+
 }

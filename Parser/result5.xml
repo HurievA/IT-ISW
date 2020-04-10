@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?><Array>
+    <dishes count="99">
+        <name>CУШИ-СЕТ СТИЛЬНЫЙ</name>
+        <cost>489 грн.</cost>
+        <weight>1185 г</weight>
+        <info>
+            <review>4</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Свайп 8 шт., Сырный 8 шт., Драйв 8 шт, Фуджи 10 шт, Ика 8 шт. Количество в порции: 50 шт. Вес: 1185 г</consist>
+        </info>
+        <detail>
+            <status>Аvailable</status>
+            <id>44327</id>
+        </detail>
+     </dishes>
+    <dishes count="4">
+        <name>CУШИ-СЕТ МОДНЫЙ</name>
+        <cost>399 грн.</cost>
+        <weight>975 г</weight>
+        <info>
+            <review>4</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Мехико 8 шт., Сырный 8 шт., Драйв 8 шт, Фуджи 10 шт. Количество в порции: 42 шт. Вес: 975 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>67990</id>
+          </detail>
+     </dishes>
+    <dishes count="72">
+        <name>CУШИ-СЕТ ЭГОИСТ</name>
+        <cost>399 грн.</cost>
+        <weight>920 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия Лайт 8 шт., Ибица 8 шт., Огайо 8 шт., Аргентина 8 шт., Три сыра 8 шт. Количество в порции: 40шт. Вес: 920 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>26272</id>
+          </detail>
+     </dishes>
+    <dishes count="51">
+        <name>CУШИ-СЕТ ТРЕНД</name>
+        <cost>325 грн.</cost>
+        <weight>705 г</weight>
+        <info>
+            <review>9</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Три сыра 8 шт., Свайп 8 шт., Драйв 8 шт. Количество в порции: 32 шт. Вес: 705 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>23877</id>
+          </detail>
+     </dishes>
+    <dishes count="24">
+        <name>CУШИ-СЕТ СМАЙЛ</name>
+        <cost>249 грн.</cost>
+        <weight>555 г</weight>
+        <info>
+            <review>7</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Драйв 8 шт, Чикен Чиз 8 шт. Количество в порции: 24 шт. Вес: 555 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>25953</id>
+          </detail>
+     </dishes>
+    <dishes count="46">
+        <name>CУШИ-СЕТ МАНХЭТТЕН</name>
+        <cost>385 грн.</cost>
+        <weight>950 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Чикен Чиз 8 шт., Мехико 8 шт., Ика 8 шт., Хокку 8 шт. Количество в порции: 40 шт. Вес: 950 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>44236</id>
+          </detail>
+     </dishes>
+    <dishes count="91">
+        <name>CУШИ-СЕТ ЛИОН</name>
+        <cost>311 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Гамадари 10 шт., Флорида 8 шт., Ика 8 шт. Количество в порции: 34 шт. Вес: 770 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>35292</id>
+          </detail>
+     </dishes>
+    <dishes count="72">
+        <name>CУШИ-СЕТ ДУБЛИН</name>
+        <cost>225 грн.</cost>
+        <weight>570 г</weight>
+        <info>
+            <review>5</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Три сыра 8 шт., Кани Томаго 10 шт. Количество в порции: 26 шт. Вес: 570 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>49135</id>
+          </detail>
+     </dishes>
+    <dishes count="74">
+        <name>CУШИ-СЕТ КОМБО</name>
+        <cost>379 грн.</cost>
+        <weight>940 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Унаги Чиз 8 шт., Хокку 8 шт., Чикен Чиз 8 шт., Ика 8 шт. Количество в порции: 40 шт. Вес: 940 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>89631</id>
+          </detail>
+     </dishes>
+    <dishes count="26">
+        <name>CУШИ-СЕТ ЧИЛАУТ</name>
+        <cost>375 грн.</cost>
+        <weight>950 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Три сыра 8 шт., Фараон 8 шт., Унаги Чиз 8 шт., Гамадари 10 шт., Флорида 8 шт. Количество в порции: 42 шт. Вес: 950 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>51645</id>
+          </detail>
+     </dishes>
+    <dishes count="63">
+        <name>CУШИ-СЕТ ГАЛАКТИКА</name>
+        <cost>589 грн.</cost>
+        <weight>1380 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия лайт 8 шт., Три сыра шт., Флорида 8 шт., Хокку 8 шт., Маки Ролл с огурцом 6 шт., Маки Ролл с курицей 6 шт., Маки Ролл со снежным крабом 6 шт., Маки ролл с горбушей 6 шт., Феликс с чукой 2 шт., Феликс с кальмаром и омлетом 2 шт., Суши с лососем 2 шт., Суши с масляной рыбой 2 шт. Количество в порции: 64 шт. Вес: 1380 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>16968</id>
+          </detail>
+     </dishes>
+    <dishes count="4">
+        <name>CУШИ-СЕТ КАТАНА</name>
+        <cost>439 грн.</cost>
+        <weight>910 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия лайт 8 шт., Верона 10 шт., Белый Дракон 8 шт., Хокку 8 шт., Ибица 8 шт. Количество в порции: 42 шт. Вес: 910 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>23738</id>
+          </detail>
+     </dishes>
+    <dishes count="79">
+        <name>CУШИ-СЕТ МАДАГАСКАР</name>
+        <cost>315 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Футомак с лососем 10 шт., Вега 8 шт., Чикен Чиз 8 шт. Количество в порции: 34 шт. Вес: 770 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>30624</id>
+          </detail>
+     </dishes>
+    <dishes count="13">
+        <name>CУШИ-СЕТ КЕНЗО</name>
+        <cost>321 грн.</cost>
+        <weight>790 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Флорида 8 шт., Жёлтый Дракон 8 шт., Вега 8 шт., Денвер 8 шт. Количество в порции: 32 шт. Вес: 790 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>88674</id>
+          </detail>
+     </dishes>
+    <dishes count="99">
+        <name>CУШИ-СЕТ АЛЬФА-САМЕЦ</name>
+        <cost>275 грн.</cost>
+        <weight>520 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Чикен Чиз 8 шт., Суши с лососем 1 шт., Суши с угрём 1 шт., Феликс со снежным крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 20 шт. Вес:520 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>58559</id>
+          </detail>
+     </dishes>
+    <dishes count="4">
+        <name>CУШИ-СЕТ САЙОНАРА</name>
+        <cost>359 грн.</cost>
+        <weight>860 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Цунами 8 шт., Флорида 8 шт., Маки Ролл с горбушей 6 шт., Маки Ролл с огурцом 6 шт., Маки Ролл со снежным крабом 6 шт. Количество в порции: 42 шт. Вес: 860 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>89234</id>
+          </detail>
+     </dishes>
+    <dishes count="46">
+        <name>CУШИ-СЕТ СЕТ ДРАКОНОВ</name>
+        <cost>495 грн.</cost>
+        <weight>870 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Красный Дракон 8 шт., Зелёный Дракон 8 шт., Белый Дракон 8 шт., Жёлтый Дракон 8 шт. Количество в порции: 32 шт. Вес: 870 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>32567</id>
+          </detail>
+     </dishes>
+    <dishes count="8">
+        <name>CУШИ-СЕТ МИКАДО</name>
+        <cost>325 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия лайт 8 шт., Невада 8 шт., Сырный ролл 8 шт., Кани Томаго 10 шт. Количество в порции: 34 шт. Вес: 760 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>42482</id>
+          </detail>
+     </dishes>
+    <dishes count="47">
+        <name>CУШИ-СЕТ СУМО</name>
+        <cost>365 грн.</cost>
+        <weight>840 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Унаги Чиз 8 шт., Чикен Чиз 8 шт., Марокко 8 шт., Феликс со снежным крабом 2 шт. Количество в порции: 34 шт. Вес: 840 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>21515</id>
+          </detail>
+     </dishes>
+    <dishes count="1">
+        <name>CУШИ-СЕТ НИАГАРА</name>
+        <cost>359 грн.</cost>
+        <weight>900 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Флорида 8 шт., Чикен Чиз 8 шт., Вега 8 шт., Феликс со снежным крабом 2 шт., Феликс с чукой 2 шт. Количество в порции: 36 шт. Вес: 900 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>84852</id>
+          </detail>
+     </dishes>
+    <dishes count="24">
+        <name>CУШИ-СЕТ БИНГО</name>
+        <cost>319 грн.</cost>
+        <weight>750 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия лайт 8 шт., Три Сыра 8 шт., Футомак с лососем 10 шт., Ика 8 шт. Количество в порции: 34 шт. Вес: 750 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>44452</id>
+          </detail>
+     </dishes>
+    <dishes count="21">
+        <name>CУШИ-СЕТ ВЕНЕЦИЯ</name>
+        <cost>449 грн.</cost>
+        <weight>1070 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Чикен чиз 8 шт., Хайп 8 шт., Маки Ролл с огурцом 6 шт., Маки Ролл с чукой 6 шт., Маки Ролл со снежным крабом 6 шт., Суши с лососем 2 шт., Феликс со снежным крабом 2 шт., Феликс с кальмаром и омлетом 2 шт. Количество в порции: 48 шт. Вес: 1070 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>32890</id>
+          </detail>
+     </dishes>
+    <dishes count="44">
+        <name>CУШИ-СЕТ ЛЕГЕНДА</name>
+        <cost>379 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия лайт 8 шт., Желтый Дракон 8 шт., Унаги Чиз 8 шт., Афины 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>36183</id>
+          </detail>
+     </dishes>
+    <dishes count="38">
+        <name>CУШИ-СЕТ БУМ ФИЛАДЕЛЬФИЙ</name>
+        <cost>343 грн.</cost>
+        <weight>770 г</weight>
+        <info>
+            <review>6</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Белый Дракон 8 шт., Чикен Чиз 8 шт., Ибица 8 шт. Количество в порции: 32 шт. Вес: 770 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>10544</id>
+          </detail>
+     </dishes>
+    <dishes count="67">
+        <name>CУШИ-СЕТ ЧЕТЫРЕ ХИТА</name>
+        <cost>355 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия классик 8 шт., Филадельфия Грин 8 шт., Хокку 8 шт., Невада 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>35564</id>
+          </detail>
+     </dishes>
+    <dishes count="95">
+        <name>CУШИ-СЕТ БАНКЕТНЫЙ</name>
+        <cost>799 грн.</cost>
+        <weight>1990 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Гамадари 10 шт., Филадельфия Лайт 8 шт., Аргентина 8 шт., Унаги чиз 8 шт., Флорида 8 шт., Рио 8 шт., Токио 8 шт., Ика 8 шт., Ролл с курицей 6 шт., Ролл с огурцом 6 шт., Ролл с лососем 6 шт., Феликс со снежным крабом 6 шт. Количество в порции: 90 шт. Вес: 1990 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>13454</id>
+          </detail>
+     </dishes>
+    <dishes count="3">
+        <name>CУШИ-СЕТ НОРВЕЖСКИЙ</name>
+        <cost>379 грн.</cost>
+        <weight>750 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Амазонка 10 шт., Аргентина 8 шт., Флорида 8 шт. Количество в порции: 34 шт. Вес: 750 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>36698</id>
+          </detail>
+     </dishes>
+    <dishes count="95">
+        <name>CУШИ-СЕТ ВАТИКАН</name>
+        <cost>395 грн.</cost>
+        <weight>970 г</weight>
+        <info>
+            <review>2</review>
+            <consist>Роллы: Аргентина 8 шт., Флорида 8 шт., Рио 8 шт., Ика 8 шт., Токио 8 шт. Количество в порции: 40 шт. Вес: 970 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>45455</id>
+          </detail>
+     </dishes>
+    <dishes count="29">
+        <name>CУШИ-СЕТ МИЧИГАН</name>
+        <cost>335 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>6</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Цунами 8 шт., Футомак с лососем 10 шт., Флорида 8 шт. Количество в порции: 34 шт. Вес: 760 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>83282</id>
+          </detail>
+     </dishes>
+    <dishes count="86">
+        <name>CУШИ-СЕТ ВЕЧЕРИНКА</name>
+        <cost>649 грн.</cost>
+        <weight>1650 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Амазонка 10 шт., Филадельфия лайт 8 шт., Хайп 8 шт., Ика 8 шт., Цунами 8 шт., Флойд 8 шт., Ролл с огурцом 6 шт., Ролл с курицей 6 шт., Ролл со снежным крабом 6 шт., Феликс со снежным крабом 2 шт., Феликс с чукой 2 шт., Феликс копчёный микс 2 шт. Количество в порции: 74 шт. Вес: 1650 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>52186</id>
+          </detail>
+     </dishes>
+    <dishes count="9">
+        <name>CУШИ-СЕТ ФАВОРИТ</name>
+        <cost>315 грн.</cost>
+        <weight>790 г</weight>
+        <info>
+            <review>10</review>
+            <consist>Роллы: Цунами 8 шт., Филадельфия в кунжуте 8 шт., Токио 8 шт., Феликс со снежным крабом 6 шт. Количество в порции: 30 шт. Вес: 790 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>30593</id>
+          </detail>
+     </dishes>
+    <dishes count="33">
+        <name>CУШИ-СЕТ ОАЗИС</name>
+        <cost>245 грн.</cost>
+        <weight>560 г</weight>
+        <info>
+            <review>1</review>
+            <consist>Роллы: Флойд 8 шт., Хайп 8 шт., Футомак с лососем 10 шт. Количество в порции: 26 шт. Вес: 560 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>14862</id>
+          </detail>
+     </dishes>
+    <dishes count="9">
+        <name>CУШИ-СЕТ ЧИКАГО</name>
+        <cost>509 грн.</cost>
+        <weight>1130 г</weight>
+        <info>
+            <review>4</review>
+            <consist>Роллы: Филадельфия лайт 8 шт., Кани Томаго 10 шт., Аргентина 8 шт., Хайп 8 шт., Три сыра 8 шт., Футомак с лососем 10 шт. Количество в порции: 52 шт. Вес: 1130 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>2762</id>
+          </detail>
+     </dishes>
+    <dishes count="49">
+        <name>CУШИ-СЕТ ТЕСЛА</name>
+        <cost>329 грн.</cost>
+        <weight>760 г</weight>
+        <info>
+            <review>3</review>
+            <consist>Роллы: Филадельфия Лайт 8 шт., Свайп 8 шт., Ика 8 шт., Хайп 8 шт. Количество в порции: 32 шт. Вес: 760 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>85762</id>
+          </detail>
+     </dishes>
+    <dishes count="70">
+        <name>CУШИ-СЕТ ФИРМЕННЫЙ</name>
+        <cost>599 грн.</cost>
+        <weight>1340 г</weight>
+        <info>
+            <review/>
+            <consist>Роллы: Филадельфия Лайт 8 шт., Аргентина 8 шт., Спайс ролл с курицей 6 шт., Спайс ролл с крабом 6 шт., с огурцом 6 шт., Спайс ролл с горбушей 6 шт., Футомак с лососем 10 шт., Три сыра 8 шт., Феликс спайс лосось 2 шт., Феликс копченый микс 2 шт., Феликс кальмар омлет 2 шт. Количество в порции: 64 шт. Вес: 1340 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>2983</id>
+          </detail>
+     </dishes>
+    <dishes count="43">
+        <name>CУШИ-СЕТ СЕЛФИ</name>
+        <cost>335 грн.</cost>
+        <weight>740 г</weight>
+        <info>
+            <review>3</review>
+            <consist>Роллы: Филадельфия Лайт 8 шт., Аргентина 8 шт., Unagi Cheese 8 шт., Гамадари 10 шт. Количество в порции: 34 шт. Вес: 740 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>49473</id>
+          </detail>
+     </dishes>
+    <dishes count="52">
+        <name>CУШИ-СЕТ ДЛЯ ОДНОГО</name>
+        <cost>179 грн.</cost>
+        <weight>300 г</weight>
+        <info>
+            <review>3</review>
+            <consist>Роллы: Филадельфия Classic 8 шт., Феликс спайс с креветкой 1 шт., Феликс с крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 11 шт. Вес: 300 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>16877</id>
+          </detail>
+     </dishes>
+    <dishes count="28">
+        <name>CУШИ-СЕТ КАРИБЫ</name>
+        <cost>429 грн.</cost>
+        <weight>940 г</weight>
+        <info>
+            <review>10</review>
+            <consist>Роллы: Гейша ролл 8 шт., Сырный ролл 8 шт., Unagi Cheese 8 шт., Киото ролл 8 шт., Филадельфия лайт 8 шт. Количество в порции: 40 шт. Вес: 940 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>43284</id>
+          </detail>
+     </dishes>
+    <dishes count="42">
+        <name>CУШИ-СЕТ МИНИ-СЕТ</name>
+        <cost>259 грн.</cost>
+        <weight>490 г</weight>
+        <info>
+            <review>8</review>
+            <consist>Роллы: Филадельфия Лайт 8 шт., Unagi Cheese 8 шт., Суши с лососем 1 шт., Суши с креветкой 1 шт., Феликс с крабом 1 шт., Феликс с чукой 1 шт. Количество в порции: 20 шт. Вес: 490 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>55034</id>
+          </detail>
+     </dishes>
+    <dishes count="99">
+        <name>CУШИ-СЕТ ДЛЯ ДВОИХ</name>
+        <cost>369 грн.</cost>
+        <weight>900 г</weight>
+        <info>
+            <review>18</review>
+            <consist>Роллы: Ницца 8 шт., Ибица 8 шт., Шейх 8 шт., Спайс ролл с горбушей 6 шт., Ролл с огурцом 6 шт., Спайс ролл с курицей 6 шт. Количество в порции: 42 шт. Вес: 900 г</consist>
+        </info>
+    <detail>
+               <status>Аvailable</status>
+               <id>10235</id>
+          </detail>
+     </dishes>
+</Array>

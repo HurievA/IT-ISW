@@ -1,17 +1,22 @@
+import com.sun.org.apache.xerces.internal.dom.DeferredElementImpl;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+import org.w3c.dom.Attr;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import java.io.IOException;
+import java.util.Random;
 
 public final class Parser {
 
-        public static Array getPage(Document document){
+    public static Array getPage(Document document){
 
-           Array array = new Array();
+        Array array = new Array();
 
-            Elements elements = document.select("div.product-content");
+        Elements elements = document.select("div.product-content");
             for (Element element : elements) {
 
                 Array.Dish dish = new Array.Dish();
@@ -30,4 +35,5 @@ public final class Parser {
             }
             return array;
         }
-}
+
+    }
