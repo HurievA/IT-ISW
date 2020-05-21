@@ -1,0 +1,244 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/set-drakonov/">
+    <dc:title>Cуши-сет Сет Драконов</dc:title>
+    <dc:description>495 грн.</dc:description>
+    <dc:identifier>16</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/modnyj/">
+    <dc:title>Sushi Set Fashionable</dc:title>
+    <dc:description>399 grn.</dc:description>
+    <dc:identifier>1</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/norvezhskij-2/">
+    <dc:title>Cуши-сет Норвежский</dc:title>
+    <dc:description>379 грн.</dc:description>
+    <dc:identifier>26</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/oazis/">
+    <dc:title>Суши-сет Оазис</dc:title>
+    <dc:description>245 грн.</dc:description>
+    <dc:identifier>31</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/smajl/">
+    <dc:title>Sushi Set Smile</dc:title>
+    <dc:description>249 grn.</dc:description>
+    <dc:identifier>4</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/kariby-set/">
+    <dc:title>Cуши-сет Карибы</dc:title>
+    <dc:description>429 грн.</dc:description>
+    <dc:identifier>37</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/trend/">
+    <dc:title>Sushi Set Trend</dc:title>
+    <dc:description>325 grn.</dc:description>
+    <dc:identifier>3</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/dublin/">
+    <dc:title>Sushi Set Dublin</dc:title>
+    <dc:description>225 grn.</dc:description>
+    <dc:identifier>7</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/dlya-dvoih/">
+    <dc:title>Суши-сет Для Двоих</dc:title>
+    <dc:description>369 грн.</dc:description>
+    <dc:identifier>39</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/katana-2/">
+    <dc:title>Суши-сет Катана</dc:title>
+    <dc:description>439 грн.</dc:description>
+    <dc:identifier>11</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/oazis-2/">
+    <dc:title>Cуши-сет Фаворит</dc:title>
+    <dc:description>315 грн.</dc:description>
+    <dc:identifier>30</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/lion/">
+    <dc:title>Sushi Set Lyon</dc:title>
+    <dc:description>311 grn.</dc:description>
+    <dc:identifier>6</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/mikado-2/">
+    <dc:title>Cуши-сет Микадо</dc:title>
+    <dc:description>325 грн.</dc:description>
+    <dc:identifier>17</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/manhjetten/">
+    <dc:title>Sushi Set Manhjetten</dc:title>
+    <dc:description>385 grn.</dc:description>
+    <dc:identifier>5</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/venecija/">
+    <dc:title>Cуши-сет Венеция</dc:title>
+    <dc:description>449 грн.</dc:description>
+    <dc:identifier>21</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/jegoist/">
+    <dc:title>Sushi Set Egoist</dc:title>
+    <dc:description>399 grn.</dc:description>
+    <dc:identifier>2</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/tesla/">
+    <dc:title>Cуши-сет Тесла</dc:title>
+    <dc:description>329 грн.</dc:description>
+    <dc:identifier>33</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/stilnyj/">
+    <dc:title>Sushi Set Stylish</dc:title>
+    <dc:description>489 grn.</dc:description>
+    <dc:identifier>0</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/kenzo/">
+    <dc:title>Cуши-сет Кензо</dc:title>
+    <dc:description>321 грн.</dc:description>
+    <dc:identifier>13</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/dlya-odnogo-set/">
+    <dc:title>Cуши-сет Для одного</dc:title>
+    <dc:description>179 грн.</dc:description>
+    <dc:identifier>36</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/sumo/">
+    <dc:title>Суши-сет Сумо</dc:title>
+    <dc:description>365 грн.</dc:description>
+    <dc:identifier>18</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/4-hita/">
+    <dc:title>Cуши-сет Четыре хита</dc:title>
+    <dc:description>355 грн.</dc:description>
+    <dc:identifier>24</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/michigan-2/">
+    <dc:title>Cуши-сет Мичиган</dc:title>
+    <dc:description>335 грн.</dc:description>
+    <dc:identifier>28</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/chilaut/">
+    <dc:title>Sushi Set Chilaut</dc:title>
+    <dc:description>375 grn.</dc:description>
+    <dc:identifier>9</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/bingo/">
+    <dc:title>Cуши-сет Бинго</dc:title>
+    <dc:description>319 грн.</dc:description>
+    <dc:identifier>20</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/galaktika/">
+    <dc:title>Cуши-сет Галактика</dc:title>
+    <dc:description>589 грн.</dc:description>
+    <dc:identifier>10</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/chikago-2/">
+    <dc:title>Cуши-сет Чикаго</dc:title>
+    <dc:description>509 грн.</dc:description>
+    <dc:identifier>32</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/bum-filadelfij/">
+    <dc:title>Cуши-сет Бум Филадельфий</dc:title>
+    <dc:description>343 грн.</dc:description>
+    <dc:identifier>23</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/vecherinka/">
+    <dc:title>Cуши-сет Вечеринка</dc:title>
+    <dc:description>649 грн.</dc:description>
+    <dc:identifier>29</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/legenda/">
+    <dc:title>Cуши-сет Легенда</dc:title>
+    <dc:description>379 грн.</dc:description>
+    <dc:identifier>22</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/sajonara/">
+    <dc:title>Cуши-сет Сайонара</dc:title>
+    <dc:description>359 грн.</dc:description>
+    <dc:identifier>15</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/firmenny-j-set/">
+    <dc:title>Cуши-сет Фирменный</dc:title>
+    <dc:description>599 грн.</dc:description>
+    <dc:identifier>34</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/selfi-set/">
+    <dc:title>Суши-сет Селфи</dc:title>
+    <dc:description>335 грн.</dc:description>
+    <dc:identifier>35</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/vatikan/">
+    <dc:title>Суши-сет Ватикан</dc:title>
+    <dc:description>395 грн.</dc:description>
+    <dc:identifier>27</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/madagaskar/">
+    <dc:title>Cуши-сет Мадагаскар</dc:title>
+    <dc:description>315 грн.</dc:description>
+    <dc:identifier>12</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/kombo/">
+    <dc:title>Sushi Set Kombo</dc:title>
+    <dc:description>379 grn.</dc:description>
+    <dc:identifier>8</dc:identifier>
+    <dc:language>en</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/banketny-j/">
+    <dc:title>Cуши-сет Банкетный</dc:title>
+    <dc:description>799 грн.</dc:description>
+    <dc:identifier>25</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/alfa-samec/">
+    <dc:title>Cуши-сет Альфа-Самец</dc:title>
+    <dc:description>275 грн.</dc:description>
+    <dc:identifier>14</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/mini-set/">
+    <dc:title>Cуши-сет Мини-сет</dc:title>
+    <dc:description>259 грн.</dc:description>
+    <dc:identifier>38</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/niagara/">
+    <dc:title>Cуши-сет Ниагара</dc:title>
+    <dc:description>359 грн.</dc:description>
+    <dc:identifier>19</dc:identifier>
+    <dc:language>ru</dc:language>
+  </rdf:Description>
+</rdf:RDF>

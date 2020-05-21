@@ -20,7 +20,8 @@ public final class Main {
     public static void main(String[] args) throws IOException, JAXBException, ParserConfigurationException, SAXException, TransformerException, XQException, XPathExpressionException {
         //  Lab1();
         //  Lab2();
-            Lab3();
+        //  Lab3();
+        Lab4();
     }
 
     private static void Lab1() throws IOException, JAXBException, ParserConfigurationException, SAXException {
@@ -42,20 +43,20 @@ public final class Main {
         XMLtoHTML.convertXMLToHTML(xml, xslt);
     }
 
-    private static void Lab3() throws IOException, XQException, ParserConfigurationException, SAXException, XPathExpressionException {
+    private static void Lab3() throws IOException, ParserConfigurationException, SAXException, XPathExpressionException {
         DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder builder = builderFactory.newDocumentBuilder();
         org.w3c.dom.Document doc = builder.parse("result5.xml");
-        XPathFactory xPathFactory = XPathFactory.newInstance();
-        XPath xPath = xPathFactory.newXPath();
-        XPathe.xPathTest(doc, xPath);
-       /* InputStream input = new FileInputStream(new File("query.xq"));
-        XQDataSource data = new SaxonXQDataSource();
-        XQConnection con = data.getConnection();
-        XQPreparedExpression e = con.prepareExpression(input);
-        XQResultSequence result = e.executeQuery();
-        while (result.next()) {
-            System.out.println("Output:" + result.getItemAsString(null));
-        }*/
+        XPathFactory factory = XPathFactory.newInstance();
+        XPath xPath = factory.newXPath();
+        XPathe.run(doc, xPath);
+    }
+
+    private static void Lab4() throws IOException, ParserConfigurationException, SAXException, XPathExpressionException {
+        DocumentBuilderFactory builderFactory = DocumentBuilderFactory.newInstance();
+        DocumentBuilder builder = builderFactory.newDocumentBuilder();
+        org.w3c.dom.Document doc = builder.parse("result.xml");
+        RDF.ConvertToRdf(doc);
+        RDF.readrdf("rdf.xml");
     }
 }

@@ -5,7 +5,6 @@ import javax.xml.XMLConstants;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -16,7 +15,9 @@ import javax.xml.transform.stream.StreamSource;
 import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
 import javax.xml.validation.Validator;
-import java.io.*;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 
 public final class Actions {
 
@@ -58,6 +59,26 @@ public final class Actions {
             return false;
         }
         return true;
+    }
+    public static boolean validator2(String xmlDocument, String xsdSchema) throws SAXException {
+
+        try {
+            DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
+            dbf.setNamespaceAware(true);
+            DocumentBuilder parser = dbf.newDocumentBuilder();
+            Document document = parser.parse(new File(xmlDocument));
+            SchemaFactory factory = SchemaFactory.newInstance(XMLConstants.W3C_XML_SCHEMA_NS_URI);
+            Source schemaFile = new StreamSource(new File(xsdSchema));
+            Schema schema = factory.newSchema(schemaFile);
+            Validator validator = schema.newValidator();
+            validator.validate(new DOMSource(document));
+            return true;
+        } catch (ParserConfigurationException | IOException | org.xml.sax.SAXException e) {
+            System.out.println("Error");
+            e.printStackTrace();
+            return false;
+
+        }
     }
 
     public static Document get(String xmlPath) throws ParserConfigurationException, IOException, SAXException {
