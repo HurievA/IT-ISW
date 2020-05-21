@@ -1,0 +1,107 @@
+<rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+        xml:base="https://roll-club.kh.ua/#"
+        xmlns:mk="https://roll-club.kh.ua/#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="https://roll-club.kh.ua/tovar/set-drakonov/">
+        <dc:title>Cуши-сет Сет Драконов</dc:title>
+        <dc:description>495 грн.</dc:description>
+        <rdfs:subClassOf rdf:resource="#вегетарианский"/>
+        <mk:cucumber>с огурцом</mk:cucumber>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/modnyj/">
+        <dc:title>Sushi Set Fashionable</dc:title>
+        <dc:description>399 grn.</dc:description>
+        <rdfs:subClassOf rdf:resource="#средний"/>
+        <mk:philadelphia>с филадельфией</mk:philadelphia>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/norvezhskij-2/">
+        <dc:title>Cуши-сет Норвежский</dc:title>
+        <dc:description>379 грн.</dc:description>
+        <rdfs:subClassOf rdf:resource="#острый"/>
+        <mk:chicken>с курицей</mk:chicken>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/oazis/">
+        <dc:title>Суши-сет Оазис</dc:title>
+        <dc:description>245 грн.</dc:description>
+        <rdfs:subClassOf rdf:resource="#маленький"/>
+        <mk:krevetka>с креветкой</mk:krevetka>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://roll-club.kh.ua/tovar/smajl/">
+        <dc:title>Sushi Set Smile</dc:title>
+        <dc:description>249 grn.</dc:description>
+        <rdfs:subClassOf rdf:resource="#большой"/>
+        <mk:okyn>с окунем</mk:okyn>
+    </rdf:Description>
+
+    <rdfs:Class rdf:ID="вегетарианский">
+        <rdfs:subClassOf rdf:resource="#средний"/>
+        <rdfs:subClassOf rdf:resource="#большой"/>
+        <rdfs:subClassOf rdf:resource="#маленький"/>
+    </rdfs:Class>
+
+    <rdfs:Class rdf:ID="острый">
+        <rdfs:subClassOf rdf:resource="#средний"/>
+        <rdfs:subClassOf rdf:resource="#большой"/>
+        <rdfs:subClassOf rdf:resource="#маленький"/>
+    </rdfs:Class>
+
+    <rdfs:Class rdf:ID="средний"/>
+
+    <rdfs:Class rdf:ID="большой"/>
+
+    <rdfs:Class rdf:ID="маленький"/>
+
+    <rdf:Property rdf:ID="philadelphia">
+        <rdfs:domain rdf:resource="#средний"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="cucumber">
+        <rdfs:domain rdf:resource="#вегетарианский"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="salmon">
+        <rdfs:domain rdf:resource="#средний"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="gorbusha">
+        <rdfs:domain rdf:resource="#острый"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="okyn">
+        <rdfs:domain rdf:resource="#большой"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="chicken">
+        <rdfs:domain rdf:resource="#острый"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="ugor">
+        <rdfs:domain rdf:resource="#маленький"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="avakado">
+        <rdfs:domain rdf:resource="#вегетарианский"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="krevetka">
+        <rdfs:domain rdf:resource="#маленький"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+    <rdf:Property rdf:ID="krab">
+        <rdfs:domain rdf:resource="#маленький"/>
+        <rdfs:range rdf:resource="xsd:string"/>
+    </rdf:Property>
+
+</rdf:RDF>

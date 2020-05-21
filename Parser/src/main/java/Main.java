@@ -15,13 +15,12 @@ import javax.xml.xpath.XPathFactory;
 import javax.xml.xquery.XQException;
 import java.io.File;
 import java.io.IOException;
-
 public final class Main {
     public static void main(String[] args) throws IOException, JAXBException, ParserConfigurationException, SAXException, TransformerException, XQException, XPathExpressionException {
         //  Lab1();
         //  Lab2();
         //  Lab3();
-        Lab4();
+            Lab4();
     }
 
     private static void Lab1() throws IOException, JAXBException, ParserConfigurationException, SAXException {
@@ -59,4 +58,5 @@ public final class Main {
         RDF.ConvertToRdf(doc);
         RDF.readrdf("rdf.xml");
     }
+
 }
