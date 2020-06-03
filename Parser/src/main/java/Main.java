@@ -12,15 +12,17 @@ import javax.xml.transform.stream.StreamSource;
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathExpressionException;
 import javax.xml.xpath.XPathFactory;
-import javax.xml.xquery.XQException;
 import java.io.File;
 import java.io.IOException;
 public final class Main {
-    public static void main(String[] args) throws IOException, JAXBException, ParserConfigurationException, SAXException, TransformerException, XQException, XPathExpressionException {
+
+
+    public static void main(String[] args) throws Exception {
         //  Lab1();
         //  Lab2();
         //  Lab3();
-            Lab4();
+        //  Lab4();
+            Lab6();
     }
 
     private static void Lab1() throws IOException, JAXBException, ParserConfigurationException, SAXException {
@@ -57,6 +59,15 @@ public final class Main {
         org.w3c.dom.Document doc = builder.parse("result.xml");
         RDF.ConvertToRdf(doc);
         RDF.readrdf("rdf.xml");
+    }
+
+    public static void Lab6() throws Exception {
+        sparql.one();
+        sparql.two();
+        sparql.three();
+        sparql.four();
+        sparql.five();
+        sparql.six();
     }
 
 }
